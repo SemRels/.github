@@ -1,0 +1,7 @@
+# SPDX-License-Identifier: Apache-2.0
+# SPDX-FileCopyrightText: 2026 The semrel Authors
+#:schema https://mise.jdx.dev/schema/mise.json
+
+[tools]
+node = "24"
+prek = "0.5.3"
