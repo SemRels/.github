@@ -4,7 +4,7 @@
 # yaml-language-server: $schema=http://json-schema.org/draft-07/schema#
 repository:
   name: .github
-  description: GitHub org settings for Semrel
+  description: GitHub org settings for SemRel
   homepage: https://semrel.io
   topics: semrel, github, profile
 

@@ -1,7 +1,7 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "description": [
-    "Preset used by Semrel"
+    "Preset used by SemRel"
   ],
   "extends": [
     "config:best-practices",
