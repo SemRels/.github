@@ -94,6 +94,17 @@
       "pinDigests": true
     },
     {
+      "description": "GitHub codeql action updates",
+      "groupName": "codeql action",
+      "matchManagers": [
+        "github-actions"
+      ],
+      "matchPackageNames": [
+        "github/codeql-action",
+        "github/codeql-action/**"
+      ]
+    },
+    {
       "description": "Automerge untagged golang libs",
       "groupName": "untagged libraries",
       "matchPackageNames": [
