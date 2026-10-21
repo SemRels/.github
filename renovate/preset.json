@@ -8,7 +8,8 @@
     ":disableRateLimiting",
     ":prImmediately",
     ":semanticCommits",
-    ":semanticCommitType(deps)"
+    ":semanticCommitType(deps)",
+    ":gitSignOff"
   ],
   "dockerfile": {
     "pinDigests": true
