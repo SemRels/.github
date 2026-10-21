@@ -7,3 +7,4 @@ This repository contains the organization-wide GitHub profile ([`profile/README.
 - **Core Repository:** [https://github.com/SemRels/semrel](https://github.com/SemRels/semrel)
 - **Plugin Registry:** [https://registry.semrel.io](https://registry.semrel.io)
 - **Official Plugins Catalog:** [https://github.com/SemRels/semrel-plugins](https://github.com/SemRels/semrel-plugins)
+- **Discord Community (with Release Ping):** [https://discord.gg/w8zTm2r3jg](https://discord.gg/w8zTm2r3jg)

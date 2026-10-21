@@ -6,10 +6,11 @@
 [![Latest Release](https://img.shields.io/github/v/release/SemRels/semrel?label=semrel&color=6366f1&logo=go&logoColor=white)](https://github.com/SemRels/semrel/releases/latest)
 [![Website](https://img.shields.io/badge/docs-www.semrel.io-6366f1)](https://www.semrel.io)
 [![Plugin Registry](https://img.shields.io/badge/plugins-46%20official-10b981)](https://registry.semrel.io)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community%20(Release%20Ping)-5865F2?logo=discord&logoColor=white)](https://discord.gg/w8zTm2r3jg)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/SemRels/semrel/blob/main/LICENSE)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/SemRels/semrel/badge)](https://scorecard.dev/viewer/?uri=github.com/SemRels/semrel)
 
-[**🌐 Official Documentation (EN / DE)**](https://www.semrel.io) · [**⚡ 5-Minute Quick Start**](https://www.semrel.io/getting-started/quick-start/) · [**⚔️ vs semantic-release / GoReleaser**](https://www.semrel.io/guide/comparison/) · [**🧩 46 Official Plugins**](https://www.semrel.io/plugins/) · [**📦 Plugin Registry**](https://registry.semrel.io)
+[**🌐 Official Documentation (EN / DE)**](https://www.semrel.io) · [**⚡ 5-Minute Quick Start**](https://www.semrel.io/getting-started/quick-start/) · [**⚔️ vs semantic-release / GoReleaser**](https://www.semrel.io/guide/comparison/) · [**🧩 46 Official Plugins**](https://www.semrel.io/plugins/) · [**📦 Plugin Registry**](https://registry.semrel.io) · [**💬 Discord (Release Ping)**](https://discord.gg/w8zTm2r3jg)
 
 ---
 
@@ -78,4 +79,4 @@ semrel doctor
 semrel release --dry-run
 ```
 
-🤝 **Maintained by** [Markus Waldheim (@mwaldheim)](https://github.com/mwaldheim) & [Thomas Boerger (@tboerger)](https://github.com/tboerger) · [Join GitHub Discussions](https://github.com/orgs/SemRels/discussions)
+🤝 **Maintained by** [Markus Waldheim (@mwaldheim)](https://github.com/mwaldheim) & [Thomas Boerger (@tboerger)](https://github.com/tboerger) · [**💬 Join Discord (with Release Ping)**](https://discord.gg/w8zTm2r3jg) · [GitHub Discussions](https://github.com/orgs/SemRels/discussions)
